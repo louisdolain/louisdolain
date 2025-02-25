@@ -1,8 +1,5 @@
-## Hi there 👋
-
-
 <h1 align='center'>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hey I'm Pierre Lissope 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hey I'm Louis Dolain 
 </h1>
 
 <p align="center">
@@ -10,7 +7,7 @@
 </p>
 
 <p align='center'>
-  I'm currently in my 2nd year at <a href="https://www.epitech.eu/">Epitech</a> and<br><b>💻 Head of Software </b> at <a href="https://github.com/PoCInnovation">PoC Innovation</a>.
+  I'm currently in my 2nd year at <a href="https://www.epitech.eu/">Epitech</a>
 </p>
 
 <p align='center'>
