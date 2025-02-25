@@ -47,7 +47,7 @@
 # 💬 How to reach me
 
 <p>
-    <a href="https://linkedin.com/in/pierre-lissope">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/louis-dolain-87567b256/">
+        <img src="https://img.shields.io/badge/--%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5">
     </a>
 </p>
