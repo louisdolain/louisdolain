@@ -51,6 +51,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="36">
     </a>
     <a href="https://www.linkedin.com/in/louis-dolain-87567b256/">
-        <img src="https://img.shields.io/badge/-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="36" width="36">
+        <img src="https://img.shields.io/badge/-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="36" width="36" border-radius="8px">
     </a>
 </p>
