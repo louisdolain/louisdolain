@@ -48,9 +48,9 @@
 
 <p gap="12px">
     <a href="https://www.linkedin.com/in/louis-dolain-87567b256/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="36">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="36">
     </a>
     <a href="mailto:louis.dolain@epitech.eu">
-        <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="36" width="36" border-radius="8px">
+        <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="36">
     </a>
 </p>
