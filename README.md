@@ -52,8 +52,12 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=webflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bubble-6658D3.svg?style=for-the-badge&logo=bubble&logoColor=white" />
+  <a href="https://webflow.com/">
+    <img src="https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=webflow&logoColor=white" />
+  </a>
+  <a href="https://bubble.io/home/apps">
+    <img src="https://img.shields.io/badge/Bubble-6658D3.svg?style=for-the-badge&logo=bubble&logoColor=white" />
+  </a>
   <a href="https://www.xano.com/">
     <img src="https://img.shields.io/badge/Xano-4F46E5.svg?style=for-the-badge&logo=xano&logoColor=white" />
   </a>
