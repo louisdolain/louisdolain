@@ -46,7 +46,7 @@
 
 # 💬 How to reach me
 
-<p>
+<p gap="12px">
     <a href="https://www.linkedin.com/in/louis-dolain-87567b256/">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36">
     </a>
