@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <i>Software engineering enthusiast</i>
+  <i>Web and software developper</i>
 </p>
 
 <p align='center'>
-  I'm currently in my 2nd year at <a href="https://www.epitech.eu/">Epitech</a>
+  I’m currently a second-year student at <a href="https://www.epitech.eu/">Epitech</a>
 </p>
 
 
