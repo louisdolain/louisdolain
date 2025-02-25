@@ -51,6 +51,12 @@
   </a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xano-4F46E5.svg?style=for-the-badge&logo=xano&logoColor=white" />
+</p>
+
 
 # 📊 Stats
 
