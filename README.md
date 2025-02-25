@@ -48,6 +48,6 @@
 
 <p>
     <a href="https://www.linkedin.com/in/louis-dolain-87567b256/">
-        <img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        (https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     </a>
 </p>
