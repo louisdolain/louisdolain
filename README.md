@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  I’m currently a second-year student at <a href="https://www.epitech.eu/">Epitech</a>
+  Currently a second-year student at <a href="https://www.epitech.eu/">Epitech</a>
 </p>
 
 
