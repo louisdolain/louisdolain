@@ -45,6 +45,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+<a href="https://neon.tech/">
+  <img src="https://img.shields.io/badge/Neon%20Serverless-%2307E8F8.svg?style=for-the-badge&logo=neon&logoColor=white" />
+</a>
 
 <p>
   <a href="https://www.docker.com/">
