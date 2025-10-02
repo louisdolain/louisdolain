@@ -6,10 +6,6 @@
   <i>Web and software developper</i>
 </p>
 
-<p align='center'>
-  Currently a second-year student at <a href="https://www.epitech.eu/">Epitech</a>
-</p>
-
 
 # 💻 Tech Stack
 
